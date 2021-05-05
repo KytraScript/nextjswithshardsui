@@ -1,0 +1,19 @@
+{
+  "name": "nextjswithshardsui",
+  "version": "0.0.2",
+  "description": "Boiler-plater",
+  "main": "_app.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Kytra Selca",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^10.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "shards-react": "^1.0.3"
+  }
+}
